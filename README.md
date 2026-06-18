@@ -20,7 +20,8 @@ Free Cloud account имеет ограничения:
 - далее следуйте инструкциям.
 
 В качестве решения задания пришлите скриншот меню Projects.
-<img width="1850" height="892" alt="image" src="https://github.com/user-attachments/assets/46ad963f-f806-4085-9025-be41ebe88539" />
+<img width="1846" height="640" alt="image" src="https://github.com/user-attachments/assets/53482b20-35c5-4c35-ae2e-185e2525c849" />
+
 
 ## Задание 2
 
@@ -28,11 +29,10 @@ Free Cloud account имеет ограничения:
 1. Изучите информацию, представленную в событии.
 1. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
 1. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
-<img width="1209" height="701" alt="image" src="https://github.com/user-attachments/assets/a27227fa-a922-4ee1-9f70-dd0948868ac9" />
+<img width="1186" height="816" alt="image" src="https://github.com/user-attachments/assets/716ce9f4-b50d-4491-bd21-ca247a652259" />
+<img width="1579" height="882" alt="image" src="https://github.com/user-attachments/assets/d5ff16ef-9450-4f7c-a843-b156ea701397" />
+<img width="1577" height="333" alt="image" src="https://github.com/user-attachments/assets/6cf8e79c-d526-44a3-a785-9fbea0d6b716" />
 
-<img width="1257" height="380" alt="image" src="https://github.com/user-attachments/assets/0472c3a2-ca15-4d52-b672-570fa74059a4" />
-
-<img width="1576" height="306" alt="image" src="https://github.com/user-attachments/assets/87fdfe3b-16da-44f3-832f-67238ed4de25" />
 
 
 ## Задание 3
@@ -46,7 +46,12 @@ Free Cloud account имеет ограничения:
 Также проверьте проект, в котором вы создаёте событие — возможно алёрт привязан к другому.
 5. В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
-<img width="1582" height="474" alt="image" src="https://github.com/user-attachments/assets/cf81f827-7dac-474e-aed1-729a2d643782" />
+<img width="1786" height="448" alt="image" src="https://github.com/user-attachments/assets/1d35d88f-e75d-479d-a3a0-a7ff207c9e66" />
+<img width="1575" height="315" alt="image" src="https://github.com/user-attachments/assets/ac35b5ee-72c2-4838-ad3f-9cdd58f1e53a" />
+
+Sentry развёрнут локально (self-hosted). Письмо не пришло, потому что не настроен внешний SMTP-сервер. Все настройки алертов и уведомлений выполнены, что подтверждается скриншотами. Событие сгенерировано и отображается в Issues
+<img width="1564" height="320" alt="image" src="https://github.com/user-attachments/assets/807c24fe-143e-484e-b3ab-d6d0c523a5d5" />
+
 
 ## Задание повышенной сложности
 
