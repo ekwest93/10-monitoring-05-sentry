@@ -20,7 +20,8 @@ Free Cloud account имеет ограничения:
 - далее следуйте инструкциям.
 
 В качестве решения задания пришлите скриншот меню Projects.
-<img width="1846" height="640" alt="image" src="https://github.com/user-attachments/assets/53482b20-35c5-4c35-ae2e-185e2525c849" />
+<img width="1141" height="452" alt="image" src="https://github.com/user-attachments/assets/f532cd61-6a69-4d1e-bb34-7068429a9f23" />
+
 
 
 ## Задание 2
