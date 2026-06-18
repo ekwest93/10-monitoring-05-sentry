@@ -28,6 +28,12 @@ Free Cloud account имеет ограничения:
 1. Изучите информацию, представленную в событии.
 1. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
 1. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
+<img width="1209" height="701" alt="image" src="https://github.com/user-attachments/assets/a27227fa-a922-4ee1-9f70-dd0948868ac9" />
+
+<img width="1257" height="380" alt="image" src="https://github.com/user-attachments/assets/0472c3a2-ca15-4d52-b672-570fa74059a4" />
+
+<img width="1576" height="306" alt="image" src="https://github.com/user-attachments/assets/87fdfe3b-16da-44f3-832f-67238ed4de25" />
+
 
 ## Задание 3
 
@@ -40,6 +46,7 @@ Free Cloud account имеет ограничения:
 Также проверьте проект, в котором вы создаёте событие — возможно алёрт привязан к другому.
 5. В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
 6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
+<img width="1582" height="474" alt="image" src="https://github.com/user-attachments/assets/cf81f827-7dac-474e-aed1-729a2d643782" />
 
 ## Задание повышенной сложности
 
